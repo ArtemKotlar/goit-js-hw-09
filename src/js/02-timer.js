@@ -1,6 +1,5 @@
 import flatpickr from 'flatpickr';
-import 'flatpickr/dist/flatpickr.min.css';
-require('flatpickr/dist/themes/confetti.css');
+import 'flatpickr/dist/themes/confetti.css';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 const refs = {

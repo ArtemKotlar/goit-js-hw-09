@@ -39,4 +39,7 @@ img {
 
 .value {
   color: rgb(255, 0, 0);
+  font-weight: 500;
+  font-size: 20px;
+  margin-right: 3px;
 }
