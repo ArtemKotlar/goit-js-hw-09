@@ -16,3 +16,27 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.button {
+  padding: 15px;
+  margin-left: 20px;
+  border-radius: 10px;
+  background-color: rgb(236, 170, 168);
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.timer {
+  display: flex;
+  margin-top: 20px;
+  background-color: rgba(136, 236, 228, 0.247);
+  justify-content: center;
+}
+
+.field {
+  margin-right: 25px;
+}
+
+.value {
+  color: rgb(255, 0, 0);
+}
